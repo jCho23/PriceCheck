@@ -15,10 +15,9 @@
             Padding= "20"
             HasShadow= "false"
             IsVisible= "false" >
-
-
-
-
+            <Label
+                Text= "No items found matching your search. :("
+                TextColor= "Gray" />
         </Frame>
 
     </StackLayout>
