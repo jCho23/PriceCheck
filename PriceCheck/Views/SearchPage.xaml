@@ -1,5 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="PriceCheck.Views.SearchPage">
-	<ContentPage.Content>
-	</ContentPage.Content>
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="PriceCheck.Views.SearchPage">
+
+    <StackLayout>
+        <SearchBar
+            TextChanged= "OnTextChanged"
+            Placeholder= "Search items here.."
+
+
+
+
+
+
+    </StackLayout>
 </ContentPage>
