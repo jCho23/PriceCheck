@@ -20,5 +20,14 @@
                 TextColor= "Gray" />
         </Frame>
 
+        <ListView
+            x:Name= "itemsListView"
+            ItemSelected= "OnItemSelected"
+            IsVisible= "false" >
+
+
+
+        </ListView>
+
     </StackLayout>
 </ContentPage>
