@@ -7,8 +7,9 @@
     <StackLayout>
         <SearchBar
             TextChanged= "OnTextChanged"
-            Placeholder= "Search items here.."
-
+            Placeholder= "Search items here.." />
+        <ActivityIndicator
+            IsRunning= "{Binding IsSearching}" />
 
 
 
