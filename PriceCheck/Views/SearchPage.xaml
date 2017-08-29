@@ -10,10 +10,16 @@
             Placeholder= "Search items here.." />
         <ActivityIndicator
             IsRunning= "{Binding IsSearching}" />
+        <Frame
+            x:Name= "notFound"
+            Padding= "20"
+            HasShadow= "false"
+            IsVisible= "false" >
 
 
 
 
+        </Frame>
 
     </StackLayout>
 </ContentPage>
