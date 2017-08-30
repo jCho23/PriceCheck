@@ -29,7 +29,7 @@
 
                     <ImageCell  
                         ImageSource= "{Binding Poster}"
-                        Text= "{Binding Title"
+                        Text= "{Binding Title}"
                         Detail= "{Binding ReleaseYear}" />
 
                 </DataTemplate>
