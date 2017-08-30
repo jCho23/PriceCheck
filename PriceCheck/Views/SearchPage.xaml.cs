@@ -11,5 +11,10 @@ namespace PriceCheck.Views
         {
             InitializeComponent();
         }
+
+        void OnTextChanged(object sender, Xamarin.Forms.TextChangedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
