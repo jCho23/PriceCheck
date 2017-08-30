@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{B690D96E-6584-40FD-865E-327037E59CC2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PriceCheck/Views/SearchPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PriceCheck/Views/SearchPage.xaml.cs">
     <Files>
-      <File FileName="PriceCheck/Views/SearchPage.xaml" Line="41" Column="1" />
-      <File FileName="PriceCheck/Views/SearchPage.xaml.cs" Line="15" Column="27" />
+      <File FileName="PriceCheck/Views/SearchPage.xaml" Line="12" Column="50" />
+      <File FileName="PriceCheck/Views/SearchPage.xaml.cs" Line="4" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
